@@ -1,0 +1,7 @@
+/workspace.xml
+*.html
+__pycache__
+requirements.txt
+*.idea
+venv/
+test.*
